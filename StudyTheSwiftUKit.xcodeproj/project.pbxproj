@@ -14,7 +14,6 @@
 		882094D72843EC9100044C51 /* StudyTheSwiftUKit.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 882094D52843EC9100044C51 /* StudyTheSwiftUKit.xcdatamodeld */; };
 		882094D92843EC9200044C51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 882094D82843EC9200044C51 /* Assets.xcassets */; };
 		882094DC2843EC9200044C51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 882094DA2843EC9200044C51 /* LaunchScreen.storyboard */; };
-		884235542844A7F700448745 /* ColorLoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884235532844A7F700448745 /* ColorLoginView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		882094D82843EC9200044C51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		882094DB2843EC9200044C51 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		882094DD2843EC9200044C51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		884235532844A7F700448745 /* ColorLoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorLoginView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +75,6 @@
 		884235502844A79C00448745 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				884235532844A7F700448745 /* ColorLoginView.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -168,7 +165,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				884235542844A7F700448745 /* ColorLoginView.swift in Sources */,
 				882094D12843EC9100044C51 /* LoginViewController.swift in Sources */,
 				882094CD2843EC9100044C51 /* AppDelegate.swift in Sources */,
 				882094D72843EC9100044C51 /* StudyTheSwiftUKit.xcdatamodeld in Sources */,
